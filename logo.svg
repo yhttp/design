@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 264.58333 264.58333"
+   height="1000"
+   width="1000">
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff646e;fill-opacity:1;stroke:none;stroke-width:2.03581548"
+     d="m 139.18841,227.10942 q -10.03157,20.39277 -24.24304,28.93333 -14.21143,8.54058 -38.245461,8.54058 -10.240584,0 -22.780082,-1.91733 -12.539493,-1.91727 -27.377898,-5.57752 v -38.69396 l 23.616045,0.17425 q 0.627025,13.4209 7.5237,19.86987 7.105718,6.44903 21.108153,6.44903 13.58445,0 21.944113,-6.2747 8.35967,-6.10045 16.71934,-23.35585 l 3.34386,-6.44898 L 24.034032,21.089988 H 0 V 0 H 128.11183 V 21.089988 H 101.56992 L 157.99763,130.72297 210.66351,21.089988 H 181.19569 V 0 h 83.38764 v 21.089988 h -26.95987 z" />
+</svg>
